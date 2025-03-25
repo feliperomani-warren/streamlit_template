@@ -1,0 +1,20 @@
+.dataframe {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.dataframe thead {
+    background-color: #C7452D;
+    color: white;
+    font-weight: bold;
+}
+
+.dataframe tbody tr {
+    background-color: #EBE7E6;
+}
+
+.dataframe th, .dataframe td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: right;
+}
